@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-style: italic;
+}
+
+div {
+  background-color: rgb(255, 235, 218);
+  color: red;
+}
+
+p {
+  background-color: lemonchiffon;
+  font-size: x-large;
+  font-style: italic;
+}
